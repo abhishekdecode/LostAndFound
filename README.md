@@ -140,5 +140,5 @@ For any inquiries or suggestions, please reach out to:
 Email: support@lpu.in
 Phone: +91-1800-123-4567
 
-Designed and Developed by Abhay Singh
+Designed and Developed by Abhishek Chaudhary
 
